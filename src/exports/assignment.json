@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604053",
+ "ten": "NgoTriAnh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "AnhNgo1702",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000175703.jpg",
+  "000000205650.jpg",
+  "000000445187.jpg",
+  "000000493741.jpg",
+  "000000056651.jpg",
+  "000000091637.jpg",
+  "000000375535.jpg",
+  "000000210604.jpg",
+  "000000515309.jpg",
+  "000000323705.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_155465.jpg",
+  "face_359139.jpg",
+  "face_223746.jpg",
+  "face_416730.jpg",
+  "face_178208.jpg",
+  "face_256814.jpg",
+  "face_279764.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "persons-NgoTriAnh"
+  },
+  "faces": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "faces-NgoTriAnh"
+  }
+ }
+}
